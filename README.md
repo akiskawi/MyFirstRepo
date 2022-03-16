@@ -3,15 +3,11 @@
 
  **This is bold**
  *this is italic*
- >Blockcode
- 
- -Item one
+ 1.Item one
+ 2.
  -Item two 
  -Item three
- 'code'
- ---
+ -Item 
  I need to highlight these ==important words==!
  
- H~2~0
- 
- X^2^
+
