@@ -14,4 +14,4 @@
 - Item two
 - Item three
 
-I need to highlight these <mark>important words</mark>!
+I need to highlight these <bold>important words</bold>!
